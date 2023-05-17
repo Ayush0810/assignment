@@ -1,0 +1,115 @@
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.profile-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 100px;
+}
+
+.profile-card {
+	width: 400px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.profile-info {
+	padding: 20px;
+}
+
+.profilename {
+	display: flex;
+	gap: 30px;
+}
+.profileemail {
+	display: flex;
+	gap: 30px;
+}
+.data {
+	display: flex; /* flex-direction:column ; */
+	margin: 0 40px;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	gap: 30px;
+}
+.profile-name {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.maindata {
+	display: flex;
+	text-align: center;
+	align-items: center;
+	gap: 10px;
+}
+.maindata>P{
+	font-style: italic;
+	font-weight: 500;
+	font-size: 20px;
+}
+
+
+
+
+/* Add media queries for smaller screens */
+
+@media (max-width: 768px) {
+	/* Reduce the width of the profile card */
+	.profile-card {
+		width: 300px;
+	}
+
+	/* Reduce the font size of the profile name */
+	.profile-name {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 480px) {
+	/* Make the profile card take up the full width */
+	.profile-card {
+		width: 100%;
+    
+	}
+
+	/* Make the profile info stack vertically */
+	.profile-info {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+    margin: 0;
+	}
+
+	/* Make the profile name and email stack vertically */
+	.profilename,
+	.profileemail {
+		align-items: center;
+		gap: 8px;
+    margin: 0;
+	}
+
+	/* Make the data items stack vertically */
+	.data {
+		flex-direction: column;
+		gap: 20px;
+    flex-wrap: nowrap;
+    /* justify-content: flex-start; */
+    align-items: flex-start;
+	}
+  .data>h3{
+    font-size: 12px;
+  }
+  .hero{
+
+    font-size: 16px;
+    font-weight: bold;
+  }
+}
