@@ -5,6 +5,7 @@ This project consists of both frontend and backend code for user with merchant m
 ## Table of Contents
 
 - [Description](#description)
+- [frontendui](#UI_Images)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Backend Routes](#backend-routes)
@@ -15,7 +16,14 @@ This project consists of both frontend and backend code for user with merchant m
 
 ## Description
 
-This project includes both frontend and backend code snippets for managing user and merchant functionalities. The frontend is built using React.js and the backend is developed using Express.js and MongoDB. The frontend communicates with the backend through RESTful API endpoints.
+This project includes both frontend and backend code snippets for managing user and merchant functionalities. The frontend is built using React.js and the backend is developed using Express.js ,Node.js and MongoDB. The frontend communicates with the backend through RESTful API endpoints.
+
+## UI_Images
+
+![mobile (2)](https://github.com/Ayush0810/assignment/assets/123540324/b8f55f5d-86e2-4f07-a110-0c7bcf762819)
+![mobile (4)](https://github.com/Ayush0810/assignment/assets/123540324/e542381d-0e33-4d40-8246-83be322c5d8c)
+![mobile (5)](https://github.com/Ayush0810/assignment/assets/123540324/8fa6d08e-924f-465a-9fa7-f271ecd28f5c)
+The UI is completely responsive and user-friendly
 
 ## Installation
 
