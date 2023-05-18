@@ -20,9 +20,11 @@ This project includes both frontend and backend code snippets for managing user 
 
 ## UI_Images
 
-![mobile (2)](https://github.com/Ayush0810/assignment/assets/123540324/b8f55f5d-86e2-4f07-a110-0c7bcf762819)
-![mobile (4)](https://github.com/Ayush0810/assignment/assets/123540324/e542381d-0e33-4d40-8246-83be322c5d8c)
-![mobile (5)](https://github.com/Ayush0810/assignment/assets/123540324/8fa6d08e-924f-465a-9fa7-f271ecd28f5c)
+![mobile (2)](https://github.com/Ayush0810/assignment/assets/123540324/2ceb9a01-eb82-40fa-8e7f-54d79b216732)
+![mobile (4)](https://github.com/Ayush0810/assignment/assets/123540324/e19dd3ef-e05b-4009-b53e-d1e857fdc984)
+![mobile (5)](https://github.com/Ayush0810/assignment/assets/123540324/2ec368df-610f-4d42-8af1-292b1f298762)
+
+
 The UI is completely responsive and user-friendly
 
 ## Installation
