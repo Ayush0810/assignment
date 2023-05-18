@@ -17,17 +17,13 @@ Dear Abbas S,
 
 I hope this letter finds you well. I am writing to provide further information to support the proposal I submitted earlier regarding the development of a delivery app that allows restaurants to join and offer their services to customers. The purpose of this app is to streamline the ordering and delivery process for restaurants and provide a convenient platform for customers to access a wide range of dining options.
 
-1. Market Analysis:
-[Provide an in-depth analysis of the target market for the delivery app. Include information on the current trends, customer preferences, and potential growth opportunities. Highlight any gaps or challenges in the existing market that the app can address.]
-
-2. User Experience (UX) Design:
+1. User Experience (UX) Design:
 Our delivery app focuses on delivering an intuitive and user-friendly experience for restaurant owners or employees. The app features a clean and visually appealing interface, with an emphasis on easy navigation. The onboarding process is seamless, guiding users through registration and setup efficiently.
 
-
-3. Features and Functionality:
+2. Features and Functionality:
 Our delivery app offers a comprehensive set of features and functionality to enhance the experience for both restaurants. Key features include login ,Sign up and User retaurant registration. 
 
-4 .Technologies Used:
+3 .Technologies Used:
 The Tech stack used is MERN stack which one of the most used and famous tech stack to get started .It can be made scalable with right tools and team and we can add for features in upcoming time so that we can help as many people with our service.
 
 I believe that the additional information provided here in strengthens the merit and viability of the proposal. I am confident that, with your support, we can successfully implement this project and achieve the desired outcomes.
